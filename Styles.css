@@ -1,0 +1,21 @@
+.contenedor{
+text-align: center;
+}
+
+.caja1 {
+padding: 10px;
+margin: 2px;
+display:inline-block;
+height: 100%;
+text-align: center;
+}
+    
+.tamanio{
+width: 150px;
+height: 50px;
+}
+
+.imagenes{
+    height: 100px;
+    width: 50px;
+}
